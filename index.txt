@@ -4,3 +4,7 @@ added task4 postscript
 my 1 st commit in index
 I added new like in task2 branch
 Added some master 6 while task 6 is working
+I have added some changeds in task 5
+
+added some task 6
+added some task 6.1
